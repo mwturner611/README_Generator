@@ -2,7 +2,7 @@
 
 <a href="https://mwturner611.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-green"></a>
 
-<a href="https://www.linkedin.com/in/matt-turner-ba328211a"><img alt="LinkedIn" src="https://img.shields.io/badge/-Portfolio-blue"></a>
+<a href="https://www.linkedin.com/in/matt-turner-ba328211a"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue"></a>
 
 
 # README_Generator
