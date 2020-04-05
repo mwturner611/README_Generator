@@ -2,7 +2,7 @@
 
 <a href="https://mwturner611.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-green"></a>
 
-<a href="https://www.linkedin.com/in/matt-turner-ba328211a"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-blue"></a>
+<a href="https://www.linkedin.com/in/matt-turner-ba328211a"><img alt="LinkedIn" src="https://img.shields.io/badge/-Portfolio-blue"></a>
 
 
 # README_Generator
@@ -33,7 +33,6 @@
 ## Usage 
 1. From command line type node index.js
 2. Follow the prompts as requested
-#### SCREENSHOTS HERE?....
 
 ## Credits
 
@@ -60,7 +59,9 @@ All contributions and suggestions are welcome! For direct contributions, please 
 
 ## Contacts
 <img src="images/profile.jfif">
+
 * Name: Matt Turner (@mwturner611)
 * e-mail: mwturner611@gmail.com
-* LinkedIn: https://www.linkedin.com/in/matt-turner-ba328211a/
+* [LinkedIn](https://www.linkedin.com/in/matt-turner-ba328211a/)
+
 
