@@ -1,0 +1,6 @@
+node_modules
+.env
+# https://www.npmjs.com/package/dotenv this is info you need to save your keys in an .env folder.  And this file is telling your code smart enough to not upload the .env folder.  Save the .env folder in your "root" folder.  This means any applications you're writting are reaching over to this file.
+
+# when you're writing instructions you'll have to tell your people grading you (end users) how to use the application.  This includes providing their own keys.  
+
