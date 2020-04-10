@@ -136,61 +136,61 @@ function promptUser() {
 // create the function that generates the readme
   function generateMarkdown(data,data2) {
     const readme = `  
-    <img alt="License" src="https://img.shields.io/badge/-${data.license}-blue">
-        
-    # ${data.title}
-    ###### Description
-    <p>${data.description}</p>
+<img alt="License" src="https://img.shields.io/badge/-${data.license}-blue">
     
-    # Generating a README.md
-    <img src="images/demo.gif">
-    
-    
-    ## Table of Contents (Optional)
-    * [Top of Page](#badges)
-    * [Gif](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Contacts](#contacts)
-    
-    ## Installation
-    ${data.instal1}
-    ${data.instal2}
-    ${data.instal3}
-    ${data.instal4}
-    ${data.instal5}
-    
-    ## Usage 
-    ${data.usage1}
-    ${data.usage2}
-    ${data.usage3}
-    ${data.usage4}
-    ${data.usage5}
-    
-    ## Credits
-    ${data.credits}    
-    
-    
-    
-    ## License
-    This project is licensed under The ${data.license}.
-    
-    ## Contributing
-    ${data.contributing}
-    
-    ## Tests
-    ${data.tests}
-    
-    ## Contacts
-    <img src="${data2.avatarURL}">
-    
-    * Name: ${data.name} (${data.username})
-    * e-mail: ${data2.email}
-    * [LinkedIn](${data.linkedin})`;
+# ${data.title}
+###### Description
+<p>${data.description}</p>
+
+# Generating a README.md
+<img src="images/demo.gif">
+
+
+## Table of Contents (Optional)
+* [Top of Page](#badges)
+* [Gif](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Contacts](#contacts)
+
+## Installation
+${data.instal1}
+${data.instal2}
+${data.instal3}
+${data.instal4}
+${data.instal5}
+
+## Usage 
+${data.usage1}
+${data.usage2}
+${data.usage3}
+${data.usage4}
+${data.usage5}
+
+## Credits
+${data.credits}    
+
+
+
+## License
+This project is licensed under The ${data.license}.
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Contacts
+<img src="${data2.avatarURL}">
+
+* Name: ${data.name} (${data.username})
+* e-mail: ${data2.email}
+* [LinkedIn](${data.linkedin})`;
     
     fs.writeFile("README.md",readme, function(err){
       if(err){
