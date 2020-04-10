@@ -142,12 +142,12 @@ function promptUser() {
 ###### Description
 <p>${data.description}</p>
 
-# Generating a README.md
+# Demo
 <img src="images/demo.gif">
 
 
 ## Table of Contents (Optional)
-* [Top of Page](#badges)
+* [Top of Page](#description)
 * [Gif](#description)
 * [Installation](#installation)
 * [Usage](#usage)

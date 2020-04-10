@@ -5,12 +5,12 @@
 ###### Description
 <p>Using Node.js this app creates clean, professional README's easily and quickly from user inputs in the command line. This app exists to save time for the developer to focus more attention on the application.</p>
 
-# Generating a README.md
+# Demo
 <img src="images/demo.gif">
 
 
 ## Table of Contents (Optional)
-* [Top of Page](#badges)
+* [Top of Page](#description)
 * [Gif](#description)
 * [Installation](#installation)
 * [Usage](#usage)
